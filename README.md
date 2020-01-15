@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Death and Open Source
 
-You can use the [editor on GitHub](https://github.com/KaraAJC/death-and-open-source/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This space is designed to collect and collaborate on ways that the open source community (and tech at large) deal with Death(of people, places, and things), inspired by my talk in 2019 entitled **An Ofrenda To Tech Ghosts** at Mozfest.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Read More
 
-### Markdown
+[Session Summary](https://discourse.mozilla.org/t/an-ofrenda-to-tech-ghosts/46740)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Now What?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KaraAJC/death-and-open-source/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'd love to leave Issues open for discussions and Pull Requests to contribute to resource pages (tbd)
